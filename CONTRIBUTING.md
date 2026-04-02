@@ -1,1 +1,1 @@
-Hi there! Welcome to htmg contributing!
+Hi there! Welcome to jit contributing!
